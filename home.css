@@ -1,0 +1,17 @@
+body {
+    margin: 20px;
+    padding: 20px;
+  }
+  .user-card {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  tbody tr {
+    cursor: pointer;
+  }
+
+  .toast{
+    transition: opacity 0.5s linear !important;
+  }
